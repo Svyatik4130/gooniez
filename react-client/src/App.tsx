@@ -37,7 +37,7 @@ function App() {
 
   const connectSocket = async () => {
     const socket = await socketService
-      .connect("")
+      .connect("http://localhost:9000")
       .catch((err) => {
         console.log("error", err);
       });
@@ -62,7 +62,7 @@ function App() {
     
     <GameContext.Provider value={gameContextValue}>
       <AppContainer>
-        <WelcomeText>Welcome to H∀PEfffffBEAST-TOE</WelcomeText>
+        <WelcomeText>Welcome to H∀PEBEAST-TOE</WelcomeText>
         <MainContainer>
           {!isInRoom && <JoinRoom />}
           {isInRoom && <Game />}
