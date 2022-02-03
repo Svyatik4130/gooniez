@@ -4,7 +4,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
-    "start": "npm i nodemon && nodemon",
+    "start": "npm i nodemon ts-node && nodemon",
     "build": "cd react-client && npm install && npm run build",
     "heroku-postbuild": "cd react-client && npm install && npm run build",
     "install": "npm i nodemon -g"
