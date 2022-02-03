@@ -1,13 +1,12 @@
 {
   "name": "socketio-server",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "license": "MIT",
   "scripts": {
     "start": "nodemon",
     "build": "cd react-client && npm install && npm run build",
-    "heroku-postbuild": "npm install && cd react-client && npm install && npm run build",
-    "install": "cd react-client && npm install"
+    "heroku-postbuild": "npm install && cd react-client && npm install && npm run build"
   },
   "dependencies": {
     "@types/node": "^16.0.0",
