@@ -6,7 +6,7 @@
   "scripts": {
     "heroku-postbuild": "cd frontend && npm install && npm run build",
     "install": "cd frontend && npm install",
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
