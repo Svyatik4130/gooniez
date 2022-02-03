@@ -15,7 +15,7 @@ const Bird = ({ top, gameRunning }) => {
         <img src="birdStatic.png" style={{ width: "70px", height: "70px" }} />
       </div>
     )
-  }
+  } 
 
 }
 
