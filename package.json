@@ -5,9 +5,9 @@
   "license": "MIT",
   "scripts": {
     "start": "ts-node ./src/server",
-    "build": "npm install && cd react-client && npm install && npm run build",
+    "build": "cd react-client && npm install && npm run build",
     "heroku-postbuild": "npm install && cd react-client && npm install && npm run build",
-    "install": "cd react-client && npm install && npm i nodemon"
+    "install": "cd react-client && npm install"
   },
   "dependencies": {
     "@types/node": "^16.0.0",
