@@ -6,7 +6,8 @@
   "scripts": {
     "start": "ts-node src/server.ts",
     "build": "cd react-client && npm install && npm run build",
-    "heroku-postbuild": "cd react-client && npm install && npm run build"
+    "heroku-postbuild": "cd react-client && npm install && npm run build",
+    "install": "npm i nodemon -g"
   },
   "dependencies": {
     "@types/node": "^16.0.0",
