@@ -1,25 +1,31 @@
-<div align="center">
+# NodeJs Express-EJS-Layouts + Partials
 
-# Tic Tac Toe Online Multiplayer Game
+This was created as part of YouTube Video. Links below
 
-<a align="center" href="https://youtu.be/aA_SdbGD64E"><img src="https://i.imgur.com/PmQyGRO.png" /></a>
+![GitHub Logo](https://raddy.co.uk/wp-content/themes/TheMinimalist/images/thumbnail-default.jpg)
 
-</div>
+## Installation
+To run this project, install it locally using npm:
 
-## Youtube Video
-https://youtu.be/aA_SdbGD64E
+```
+$ npm install
+$ npm start
+```
 
-### What we will cover?
-- Socket.io for absolute beginners 👍
-- Socket.io Rooms
-- Socket.io Class Controllers with Decorators
-- Socket.io with typescript
-- React client with socket.io server
-- Full fledged Tic Tac Toe game from scratch 🤓
+### YouTube Video & Article
 
+[NodeJs Express-EJS-Layouts + Partials](https://www.youtube.com/watch?v=z8m_Vy_9FIs)
 
-### How to run?
-You can use the README file inside the projects to run it locally.
+[Read Article](https://raddy.co.uk/blog/nodejs-express-layouts-and-partials/)
 
+### YouTube Channel - RaddyTheBrand
 
-Made with ❤️ by [@Ipenywis](https://twitter.com/ipenywis) Aka [CoderOne](https://youtube.com/c/coderone)
+[Subscribe to my YouTube Channel](https://www.youtube.com/channel/UCvXscyQ0cLzPZeNOeXI45Sw?sub_confirmation=1)
+
+### Website
+[www.raddy.co.uk](https://www.raddy.co.uk)
+
+### Donations
+[Via Paypal](https://www.paypal.me/RadoslavAngelov)
+
+[Buy me a Coffee](https://www.buymeacoffee.com/RaddyTheBrand)
