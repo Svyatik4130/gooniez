@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #161d2f;
+  background-color: #3084C5;
 }
 
 .App {
@@ -42,7 +42,7 @@ html {
   top: 0;
   bottom: 0;
   overflow: hidden;
-  background-image: url("https://dvizhok-hosted-content.s3.us-east-2.amazonaws.com/images/landing/bg-flappy-hape.png");
+  background-image: url("https://i.pinimg.com/600x315/d2/b7/ba/d2b7ba1aa21007e3bd5014e6999d2b97.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
