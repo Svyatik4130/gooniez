@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #3084C5;
+  background-color: #0084C9;
 }
 
 .App {
@@ -42,7 +42,7 @@ html {
   top: 0;
   bottom: 0;
   overflow: hidden;
-  background-image: url("https://i.pinimg.com/600x315/d2/b7/ba/d2b7ba1aa21007e3bd5014e6999d2b97.jpg");
+  background-image: url("https://cdn.discordapp.com/attachments/894616750639943794/939511349480935424/d2b7ba1aa21007e3bd5014e6999d2b97.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
