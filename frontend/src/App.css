@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #0084C9;
+  background-color: #000014;
 }
 
 .App {
@@ -42,7 +42,7 @@ html {
   top: 0;
   bottom: 0;
   overflow: hidden;
-  background-image: url("https://cdn.discordapp.com/attachments/894616750639943794/939511349480935424/d2b7ba1aa21007e3bd5014e6999d2b97.jpg");
+  background-image: url("https://media.discordapp.net/attachments/945830720281116700/957037040673898577/1615820271_40-p-fon-nochnoe-nebo-57.png?width=1696&height=954");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -67,9 +67,9 @@ html {
 .Pipe {
   position: absolute;
   width: 50px;
-  background-color: #c1ad3aa2;
-  background-image: url("https://dvizhok-hosted-content.s3.us-east-2.amazonaws.com/images/landing/logo_gooniez.png");
-  box-shadow: inset 0px 0px 4px 0px #ffdb11;
+  background-color: #d0fffd;
+  /* background-image: url("https://dvizhok-hosted-content.s3.us-east-2.amazonaws.com/images/landing/logo_gooniez.png"); */
+  /* box-shadow: inset 0px 0px 4px 0px #ffdb11; */
 }
 .bottom {
   border-top-left-radius: 15px;
