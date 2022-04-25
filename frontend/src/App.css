@@ -13,7 +13,7 @@ html {
 }
 
 body {
-  background-color: #000014;
+  background-color: #040000;
 }
 
 .App {
@@ -42,7 +42,7 @@ html {
   top: 0;
   bottom: 0;
   overflow: hidden;
-  background-image: url("https://dvizhok-hosted-content.s3.us-east-2.amazonaws.com/images/landing/fffdfdf.png");
+  background-image: url("https://media.discordapp.net/attachments/894616750639943794/967788057023615036/b7ffd803720bdd628ed684200acc4c71.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -67,7 +67,7 @@ html {
 .Pipe {
   position: absolute;
   width: 50px;
-  background-color: #d0fffd;
+  background-color: #ffca1bcf;
   /* background-image: url("https://dvizhok-hosted-content.s3.us-east-2.amazonaws.com/images/landing/logo_gooniez.png"); */
   /* box-shadow: inset 0px 0px 4px 0px #ffdb11; */
 }
